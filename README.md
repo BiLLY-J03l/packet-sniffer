@@ -5,10 +5,18 @@ This script allows you to monitor packets on a specified interface, you can run 
 
 Installation:
 
-1- > git clone https://github.com/BiLLY-J03l/packet-sniffer.git
+1-
 
-2- > apt install python3-scapy
+    git clone https://github.com/BiLLY-J03l/packet-sniffer.git
 
-3- > chmod +x packet_sniffer.py
+2-
 
-4- > ./packet_sniffer.py -i {interface}
+    apt install python3-scapy
+
+3-
+
+    chmod +x packet_sniffer.py
+
+4-
+
+    ./packet_sniffer.py -i {interface}
