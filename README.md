@@ -1,9 +1,9 @@
 # packet-sniffer
 Packet Sniffer with python3
 
-This script allows you to monitor packets on a specified interface, you can run it simultaneously with an arp spoofer.
+-This script allows you to monitor packets on a specified interface, you can run it simultaneously with an arp spoofer.
 
-Installation:
+-Installation:
 
 1-
 
